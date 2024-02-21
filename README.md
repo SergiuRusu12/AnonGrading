@@ -1,4 +1,4 @@
-# Anonymous grading web application
+# Anonymous grading web application using React and MariaDB
 
 ## Objective
 
@@ -10,7 +10,7 @@ The application should allow students projects to be graded by anonymous juries 
 
 The application is built on a Single Page Application architecture and is accessible from the browser on the desktop, mobile devices or tablets (depending on user preference).
 
-## Minimal functionality
+## Functionalities
 
 As a student member in a project team (PM) i can add a project and define a series of partial project deliverables. By registering I automatically become eligible as an evaluator.
 
